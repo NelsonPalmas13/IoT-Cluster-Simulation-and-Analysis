@@ -1,0 +1,30 @@
+{
+    "list": [
+        {
+            "slaveId": "1",
+            "n_partitions": 15,
+            "performance_index": 6,
+            "url": "http://localhost:8090/"
+        },
+        {
+            "slaveId": "2",
+            "n_partitions": 15,
+            "performance_index": 12,
+            "url": "http://localhost:8091/"
+        },
+        {
+            "slaveId": "3",
+            "n_partitions": 15,
+            "performance_index": 11,
+            "url": "http://localhost:8092/"
+        },
+        {
+            "slaveId": "4",
+            "n_partitions": 15,
+            "performance_index": 6,
+            "url": "http://localhost:8093/"
+        }
+    ],
+    "NumberOfThreads": 5,
+    "Url": "http://localhost:8085/"
+}
